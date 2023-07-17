@@ -97,6 +97,7 @@
 //     address: true,
 //   },
 // });
+
 // Schema Design 
 // 1.user on boarding 
 // const UserSchema = new mongoose.Schema({
